@@ -15,9 +15,9 @@ body, html{
 
 }
 .countrybuttons{
-    width: 11rem;
+    width: 15rem;
     text-align: center;
-    margin-left: 39rem;
+    margin-left: 37rem;
 }
 .countrybuttons a:hover {
     color: Blue;
