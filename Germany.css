@@ -40,13 +40,23 @@ body{
     color: dimgray;
   }
   
-.nevada h1{
+.bismarck h1{
     color: aqua;
 }
-.nevada img{
-    width: 20rem;
+.bismarck img{
+    width: 40rem;
 }
-.nevada{
+.bismarck{
     background-color: dimgray;
     opacity: 0.9;
+}
+.grafspee h1{
+  color: aqua;
+}
+.grafspee img{
+  width: 40rem;
+}
+.grafspee{
+  background-color: dimgray;
+  opacity: 0.9;
 }

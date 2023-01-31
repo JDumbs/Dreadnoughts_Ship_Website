@@ -50,3 +50,13 @@ body{
     background-color: dimgray;
     opacity: 0.9;
 }
+.hood h1{
+  color: aqua;
+}
+.hood img{
+  width: 40rem;
+}
+.hood{
+  background-color: dimgray;
+  opacity: 0.9;
+}
